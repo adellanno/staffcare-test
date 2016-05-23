@@ -1,0 +1,36 @@
+body {
+  color: white;
+}
+
+.container {
+  background-color: black;
+  padding: 2%;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: white;
+}
+
+.current_selection_container {
+  border: 1px solid white;
+}
+
+#amount_submit {
+  color: black;
+}
+
+form {
+  display: inline;
+}
+
+table {
+  table-layout: fixed;
+}
+
+td {
+  width: 33%;
+}
